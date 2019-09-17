@@ -47,6 +47,8 @@ This is a collection of resources related with 3D-Object-Detection using point c
 15. Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds [[arXiv](https://arxiv.org/pdf/1904.07537.pdf)] [[Pytorch](https://github.com/AI-liu/Complex-YOLO)]
 16. 3D Backbone Network for 3D Object Detection [[arXiv](https://arxiv.org/pdf/1901.08373.pdf)] [[Code](https://github.com/Benzlxs/tDBN)]
 17. StarNet: Targeted Computation for Object Detection in Point Clouds [[arXiv](https://arxiv.org/pdf/1908.11069v1.pdf)] [[Tensorflow](https://github.com/tensorflow/lingvo)]
+18. STD: Sparse-to-Dense 3D Object Detector for Point Cloud [[ICCV](https://arxiv.org/pdf/1907.10471.pdf)]
+19. Multi-Task Multi-Sensor Fusion for 3D Object Detection [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Multi-Task_Multi-Sensor_Fusion_for_3D_Object_Detection_CVPR_2019_paper.pdf)]
 
 
 # --Datasets
