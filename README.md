@@ -11,7 +11,7 @@ This is a collection of resources related with 3D-Object-Detection using point c
 
 
 # 2018
-1. PIXOR: Real-time 3D Object Detection from Point Clouds [[CVPR](https://arxiv.org/pdf/1902.06326.pdf)] [[Pytorch](https://github.com/ankita-kalra/PIXOR)]
+1. PIXOR: Real-time 3D Object Detection from Point Clouds [[CVPR](https://arxiv.org/pdf/1902.06326.pdf)] [[Pytorch](https://github.com/ankita-kalra/PIXOR)] [2D Network]
 2. VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection [[CVPR](https://arxiv.org/pdf/1711.06396.pdf)] [[Tensorflow](https://github.com/tsinghua-rll/VoxelNet-tensorflow)]
 3. A Minimalist Approach to Type-Agnostic Detection of Quadrics in Point Clouds [[CVPR](http://campar.in.tum.de/pub/tbirdal2018cvpr/tbirdal2018cvpr.pdf)]
 4. CarFusion: Combining Point Tracking and Part Detection for Dynamic 3D Reconstruction of Vehicles [[CVPR](http://www.cs.cmu.edu/~mvo/index_files/Papers/CarFusion.pdf)] [[Code](https://github.com/dineshreddy91/carfusion_to_coco)]
