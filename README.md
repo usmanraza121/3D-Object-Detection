@@ -60,3 +60,4 @@ This is a collection of resources related with 3D-Object-Detection using point c
 # Indoor
 1. [The Stanford Large-Scale 3D Indoor Spaces Dataset (S3DIS)](http://buildingparser.stanford.edu/dataset.html#Download)
 2. [Richly-annotated 3D Reconstructions of Indoor Scenes (ScanNet)](http://www.scan-net.org/)
+3. [SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite](http://rgbd.cs.princeton.edu/)
