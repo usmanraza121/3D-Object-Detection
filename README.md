@@ -49,6 +49,7 @@ This is a collection of resources related with 3D-Object-Detection using point c
 17. StarNet: Targeted Computation for Object Detection in Point Clouds [[arXiv](https://arxiv.org/pdf/1908.11069v1.pdf)] [[Tensorflow](https://github.com/tensorflow/lingvo)] [KITTI] [3D]
 18. STD: Sparse-to-Dense 3D Object Detector for Point Cloud [[ICCV](https://arxiv.org/pdf/1907.10471.pdf)] [KITTI] [3D]
 19. Multi-Task Multi-Sensor Fusion for 3D Object Detection [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Multi-Task_Multi-Sensor_Fusion_for_3D_Object_Detection_CVPR_2019_paper.pdf)] [KITTI]
+20. Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds [[NIPS](https://arxiv.org/pdf/1906.01140.pdf)] [ScanNet]
 
 
 # --Datasets
