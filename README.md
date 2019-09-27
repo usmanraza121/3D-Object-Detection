@@ -1,5 +1,6 @@
 # 3D-Object-Detection
 This is a collection of resources related with 3D-Object-Detection using point clouds.
+Paper title, code, dataset, 3D or 2D combination
 
 # Contents
 
