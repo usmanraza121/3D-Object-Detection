@@ -56,11 +56,12 @@ Paper title, [code], [dataset], [3D or 2D combination]
 
 # --Datasets
 
-# Outdoor
+# Outdoor (Point Cloud data)
 1. [KITTI 3D Object Detection Evaluation 2017](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
 2. [KITTI Bird's Eye View Evaluation 2017](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=bev)
 
-# Indoor
+# Indoor (RGB-D data)
 1. [The Stanford Large-Scale 3D Indoor Spaces Dataset (S3DIS)](http://buildingparser.stanford.edu/dataset.html#Download)
 2. [Richly-annotated 3D Reconstructions of Indoor Scenes (ScanNet)](http://www.scan-net.org/)
 3. [SUN RGB-D: A RGB-D Scene Understanding Benchmark Suite](http://rgbd.cs.princeton.edu/)
+4. [NYU Depth Dataset V2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
