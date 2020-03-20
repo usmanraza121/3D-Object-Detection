@@ -52,7 +52,7 @@ Paper title, [code], [dataset], [3D or 2D combination]
 18. STD: Sparse-to-Dense 3D Object Detector for Point Cloud [[ICCV](https://arxiv.org/pdf/1907.10471.pdf)] [KITTI] [3D]
 19. Multi-Task Multi-Sensor Fusion for 3D Object Detection [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Multi-Task_Multi-Sensor_Fusion_for_3D_Object_Detection_CVPR_2019_paper.pdf)] [KITTI]
 20. Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds [[NIPS](https://arxiv.org/pdf/1906.01140.pdf)] [ScanNet]
-21. KPConv: Flexible and Deformable Convolution for Point Clouds [[ICCV] (https://arxiv.org/pdf/1904.08889.pdf)] [[Code] (https://github.com/HuguesTHOMAS/KPConv)] [S3DIS, Scannet] 
+21. KPConv: Flexible and Deformable Convolution for Point Clouds [[ICCV] (https://arxiv.org/pdf/1904.08889.pdf)] [[Code](https://github.com/HuguesTHOMAS/KPConv)] [S3DIS, Scannet] 
 
 #2020
 1. ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes [[CVPR](https://arxiv.org/pdf/2001.10692.pdf)] [SUN RGB-D]
