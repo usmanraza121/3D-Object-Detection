@@ -53,11 +53,20 @@ Paper title, [code], [dataset], [3D or 2D combination]
 19. Multi-Task Multi-Sensor Fusion for 3D Object Detection [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Multi-Task_Multi-Sensor_Fusion_for_3D_Object_Detection_CVPR_2019_paper.pdf)] [KITTI]
 20. Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds [[NIPS](https://arxiv.org/pdf/1906.01140.pdf)] [ScanNet]
 21. KPConv: Flexible and Deformable Convolution for Point Clouds [[ICCV](https://arxiv.org/pdf/1904.08889.pdf)] [[Tensorflow](https://github.com/HuguesTHOMAS/KPConv)] [S3DIS, Scannet] 
+22.  Fast Point R-CNN [[ICCV](https://arxiv.org/pdf/1908.02990.pdf)] [KITTI]
+23. Pseudo-LiDAR From Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Multi-Task_Multi-Sensor_Fusion_for_3D_Object_Detection_CVPR_2019_paper.pdf)] [KITTI]
 
 # 2020
 1. ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes [[CVPR](https://arxiv.org/pdf/2001.10692.pdf)] [SUN RGB-D]
 2. MLCVNet: Multi-Level Context VoteNet for 3D Object Detection [[CVPR](https://arxiv.org/pdf/2004.05679.pdf)] [ScanNet]
-
+3. PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection [[CVPR](https://arxiv.org/pdf/1912.13192.pdf)] [KITTI] [3D]
+4. Structure Aware Single-stage 3D Object Detection from Point Cloud [[CVPR](http://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf)] [KITTI] [3D]
+5. 3DSSD: Point-based 3D Single Stage Object Detector. [[CVPR](https://arxiv.org/pdf/2002.10187.pdf)] [KITTI] [3D]
+6. Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud. [[CVPR](https://arxiv.org/pdf/2003.01251.pdf)] [KITTI] [3D]
+7. Associate-3Ddet: Perceptual-to-Conceptual Association for 3D Point Cloud Object Detection [[CVPR]] [KITTI] [3D]
+8. From Points to Parts: 3D Object Detection from Point Cloud with Part-aware and Part-aggregation Network. [[TPAMI](https://arxiv.org/pdf/1907.03670.pdf)] [KITTI] [3D]
+9. Patch Refinement: Localized 3D Object Detection [[NeurIPSW](https://ml4ad.github.io/files/papers/Patch%20Refinement.pdf)] [KITTI] [3D]
+10. 3D IoU-Net: IoU Guided 3D Object Detector for Point Clouds [[arXiv](https://arxiv.org/pdf/2004.04962.pdf)] [KITTI] [3D]
 # --Datasets
 
 # Outdoor (Point Cloud data)
