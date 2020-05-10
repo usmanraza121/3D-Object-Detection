@@ -67,6 +67,7 @@ Paper title, [code], [dataset], [3D or 2D combination]
 8. From Points to Parts: 3D Object Detection from Point Cloud with Part-aware and Part-aggregation Network. [[TPAMI](https://arxiv.org/pdf/1907.03670.pdf)] [KITTI] [3D]
 9. Patch Refinement: Localized 3D Object Detection [[NeurIPSW](https://ml4ad.github.io/files/papers/Patch%20Refinement.pdf)] [KITTI] [3D]
 10. 3D IoU-Net: IoU Guided 3D Object Detector for Point Clouds [[arXiv](https://arxiv.org/pdf/2004.04962.pdf)] [KITTI] [3D]
+11. 3D-MPA: Multi Proposal Aggregation for 3D Semantic Instance Segmentation [[arXiv](https://arxiv.org/pdf/2003.13867.pdf)] [ScanNet] [S3DIS]
 # --Datasets
 
 # Outdoor (Point Cloud data)
