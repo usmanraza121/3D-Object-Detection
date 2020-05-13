@@ -55,6 +55,7 @@ Paper title, [code], [dataset], [3D or 2D combination]
 21. KPConv: Flexible and Deformable Convolution for Point Clouds [[ICCV](https://arxiv.org/pdf/1904.08889.pdf)] [[Tensorflow](https://github.com/HuguesTHOMAS/KPConv)] [S3DIS, Scannet] 
 22.  Fast Point R-CNN [[ICCV](https://arxiv.org/pdf/1908.02990.pdf)] [KITTI]
 23. Pseudo-LiDAR From Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Multi-Task_Multi-Sensor_Fusion_for_3D_Object_Detection_CVPR_2019_paper.pdf)] [KITTI]
+24. Frustum ConvNet: Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection [[IROS](https://arxiv.org/pdf/1903.01864.pdf)] [[Pytorch](https://github.com/zhixinwang/frustum-convnet)] [KITTI] [2D->3D]
 
 # 2020
 1. ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes [[CVPR](https://arxiv.org/pdf/2001.10692.pdf)] [SUN RGB-D]
